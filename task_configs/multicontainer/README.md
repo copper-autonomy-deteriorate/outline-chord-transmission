@@ -1,0 +1,1 @@
+This directory contains challenge definitions for the few challenges that need several containers joined in a network to work. We do not include the harness code necessary to run these challenges, but we include the definitions (sans environment setup) for illustration purposes.
